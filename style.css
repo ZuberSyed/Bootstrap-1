@@ -1,0 +1,27 @@
+.map-container-2{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-2 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+.cap{
+    position: relative;
+    bottom:350px;
+    left:250px;
+    font-size:55px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    ;   
+} 
+.bd{
+    position: relative;
+    bottom:320px;
+    left:200px;
+
+}
